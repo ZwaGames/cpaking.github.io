@@ -319,7 +319,7 @@ $(document).ready(function () {
 
 
 	function rf() {
-		const data = { "s2_i_t": "Please select the amount of robux", "s2_rb_t": "Selected Amount", "s2_bt": "Proceed", "jsra": "500", "jsri": "https://giftyou.pages.dev/assets/img/r-i-s-r-w-i-1.png", "r1": "500", "r2": "900", "r3": "1800", "r4": "5000", "ri1": "https://giftyou.pages.dev/assets/img/r-i-s-r-w-i-1.png", "ri2": ".https://giftyou.pages.dev/assets/img/r-i-s-r-w-i-2.png", "ri3": "https://giftyou.pages.dev/assets/img/r-i-s-r-w-i-3.png", "ri4": "https://giftyou.pages.dev/assets/img/r-i-s-r-w-i-4.png",
+		const data = { "s2_i_t": "Please select the amount of robux", "s2_rb_t": "Selected Amount", "s2_bt": "Proceed", "jsra": "500", "jsri": "https://giftyou.pages.dev/assets/img/r-i-s-r-w-i-1.png", "r1": "500", "r2": "900", "r3": "1800", "r4": "5000", "ri1": "https://giftyou.pages.dev/assets/img/r-i-s-r-w-i-1.png", "ri2": ".https://giftyou.pages.dev/assets/img/r-i-s-r-w-i-2.png", "ri3": "https://giftyou.pages.dev/assets/img/r-i-s-r-w-i-4.png", "ri4": "https://giftyou.pages.dev/assets/img/r-i-s-r-w-i-4.png",
 		 "rl1": "RBX", "rl2": "RBX", "rl3": "RBX", "rl4": "RBX" }
 
 		var roX = data
