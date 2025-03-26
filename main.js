@@ -544,7 +544,7 @@ $(document).ready(function () {
 			if (sls === 1) {
 				$(".c-w-p").removeClass('animate__animated animate__bounceIn animation-delay-100');
 
-				var poL = { "lst": "Last Step", "lsp": "mrd [username]! You are almost done with synchronization of [selected_amount] [resource_name]! Please complete the last step by clicking the button below to finish with synchronization process." }
+				var poL = { "lst": "Last Step", "lsp": "mr [username]! You are almost done with synchronization of [selected_amount] [resource_name]! Please complete the last step by clicking the button below to finish with synchronization process." }
 				$lsv1 = poL['lst'];
 				$lsv2 = poL['lsp'];
 				$lsv1 = $lsv1.replace(/\[selected_amount\]/g, jsra);
