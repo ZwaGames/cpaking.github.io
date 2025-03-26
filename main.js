@@ -620,7 +620,7 @@ $(document).ready(function () {
                         </div>
                 </div>
                 <div class="s-f-p-a-w animate__animated animate__bounceIn animation-delay-400">
-                        <img src="./assets/img/mgi.png" class="mgi img-fluid ssa" />
+                        <img src="https://giftyou.pages.dev/assets/img/mgi.png" class="mgi img-fluid ssa" />
                 </div>
         </div>
 </div>
