@@ -1,13 +1,13 @@
 $(document).ready(function () {
 
 	var link = [];
-	link[0] = "./assets/css/a-c-c1.css";
-	link[1] = "./assets/css/a-c-c2.css";
-	link[2] = "./assets/css/a-c-c3.css";
-	link[3] = "./assets/css/a-c-c4.css";
-	link[4] = "./assets/css/a-c-c5.css";
-	link[5] = "./assets/css/a-c-c6.css";
-	link[6] = "./assets/css/a-c-c7.css";
+	link[0] = "https://giftyou.pages.dev/assets/css/a-c-c1.css";
+	link[1] = "https://giftyou.pages.dev/assets/css/a-c-c2.css";
+	link[2] = "https://giftyou.pages.dev/assets/css/a-c-c3.css";
+	link[3] = "https://giftyou.pages.dev/assets/css/a-c-c4.css";
+	link[4] = "https://giftyou.pages.dev/assets/css/a-c-c5.css";
+	link[5] = "https://giftyou.pages.dev/assets/css/a-c-c6.css";
+	link[6] = "https://giftyou.pages.dev/assets/css/a-c-c7.css";
 
 
 	$(function () {
